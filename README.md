@@ -1,75 +1,103 @@
-# 👋 Hi, I'm Jafran
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-### 🚀 Aspiring DevOps Engineer | Java & Spring Boot Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi%2C%20I'm%20Jafran&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20DevOps%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" alt="Header banner" />
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+%E2%80%A2+Automating+%E2%80%A2+Deploying;Learning+DevOps+one+project+at+a+time;Java+%7C+Spring+Boot+%7C+Docker+%7C+Cloud](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=3000\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=700\&lines=Building+%E2%80%A2+Automating+%E2%80%A2+Deploying;Learning+DevOps+one+project+at+a+time;Java+%7C+Spring+Boot+%7C+Docker+%7C+Cloud)" /> \</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+%E2%80%A2+Automating+%E2%80%A2+Deploying;Learning+DevOps+one+project+at+a+time;Java+%7C+Spring+Boot+%7C+Docker+%7C+Cloud" alt="Typing animation" />
+</a>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Focus-DevOps%20Engineering-00BFFF?style=for-the-badge](https://img.shields.io/badge/Focus-DevOps%20Engineering-00BFFF?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Currently-Learning%20Cloud-7B42BC?style=for-the-badge](https://img.shields.io/badge/Currently-Learning%20Cloud-7B42BC?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-2EA44F?style=for-the-badge](https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-2EA44F?style=for-the-badge)" /> \</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-00BFFF?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Currently-Learning%20Cloud-7B42BC?style=for-the-badge" alt="Currently learning" />
+<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-2EA44F?style=for-the-badge" alt="Open to collaboration" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github&color=181717" alt="Followers" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 Undergraduate in Information & Communication Technology at the University of Ruhuna.
+<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
 
-💡 Interested in building reliable systems, automating workflows, and bridging software development with infrastructure.
+🎓 Undergraduate in **Information & Communication Technology** at the **University of Ruhuna**.
 
-🌱 Currently developing my skills in **DevOps, Cloud Computing, Automation, and Infrastructure as Code**.
+💡 I like building reliable systems, automating workflows, and connecting software development with infrastructure.
 
-💻 Background in **Java & Spring Boot** application development.
+🌱 Right now I am growing my skills in **DevOps, Cloud Computing, Automation, and Infrastructure as Code**.
 
-🎯 My goal is to build, deploy, automate, monitor, and continuously improve real-world applications and infrastructure.
+💻 I have a background in **Java & Spring Boot** development.
 
-> **Learn → Build → Automate → Deploy → Monitor → Improve**
+🎯 My goal: build, deploy, automate, monitor, and keep improving real-world applications.
+
+<br clear="right"/>
+
+<div align="center">
+
+### `Learn → Build → Automate → Deploy → Monitor → Improve`
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Programming & Backend Development
+<div align="center">
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=java,spring,maven,mysql,html,css,js](https://skillicons.dev/icons?i=java,spring,maven,mysql,html,css,js)" /> \</p>
+### 💻 Programming & Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,html,css,js&theme=dark" alt="Backend skills" />
 
 ### 🐧 DevOps & Automation
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=linux,bash,git,github,docker](https://skillicons.dev/icons?i=linux,bash,git,github,docker)" />
-\</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker&theme=dark" alt="DevOps skills" />
 
 ### ☁️ Cloud & Infrastructure
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=aws,terraform,kubernetes](https://skillicons.dev/icons?i=aws,terraform,kubernetes)" /> \</p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes&theme=dark" alt="Cloud skills" />
 
 ### 📊 Monitoring & Tools
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=prometheus,grafana,idea,vscode](https://skillicons.dev/icons?i=prometheus,grafana,idea,vscode)" /> \</p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,idea,vscode&theme=dark" alt="Monitoring and tools" />
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐧 Linux Administration & Bash Scripting
-- 🐳 Docker & Containerization
-- 🔄 CI/CD with GitHub Actions
-- ☁️ AWS Cloud Fundamentals
-- 🏗️ Terraform & Infrastructure as Code
-- ☸️ Kubernetes & Container Orchestration
-- 📈 Prometheus & Grafana Monitoring
-- 🔐 DevSecOps & Cloud Security
+| Area | Topic | Progress |
+| :--- | :--- | :--- |
+| 🐧 Linux | Administration & Bash Scripting | ![](https://progress-bar.xyz/50?title=Learning) |
+| 🐳 Containers | Docker & Docker Compose | ![](https://progress-bar.xyz/40?title=Learning) |
+| 🔄 CI/CD | GitHub Actions | ![](https://progress-bar.xyz/35?title=Learning) |
+| ☁️ Cloud | AWS Fundamentals | ![](https://progress-bar.xyz/30?title=Learning) |
+| 🏗️ IaC | Terraform | ![](https://progress-bar.xyz/20?title=Learning) |
+| ☸️ Orchestration | Kubernetes | ![](https://progress-bar.xyz/15?title=Learning) |
+| 📈 Monitoring | Prometheus & Grafana | ![](https://progress-bar.xyz/15?title=Learning) |
+| 🔐 Security | DevSecOps & Cloud Security | ![](https://progress-bar.xyz/10?title=Learning) |
+
+> 💬 *The progress bars are my own rough estimates. Change the numbers any time.*
 
 ---
 
 ## 🚀 Featured Projects
 
-> I am continuously building hands-on projects to turn theory into practical engineering skills.
+> I keep building hands-on projects to turn theory into real engineering skills.
 
-| Project                    | Description                                       | Technologies             |
-| -------------------------- | ------------------------------------------------- | ------------------------ |
-| 🐳 Dockerized Applications | Containerizing applications and managing services | Docker, Linux            |
-| ⚙️ CI/CD Pipeline          | Automating build, test and deployment workflows   | GitHub Actions           |
-| ☁️ Cloud Infrastructure    | Provisioning cloud infrastructure as code         | AWS, Terraform           |
-| 📊 Monitoring Stack        | Monitoring application and infrastructure metrics | Prometheus, Grafana      |
-| ☕ Backend API              | Developing RESTful backend applications           | Java, Spring Boot, MySQL |
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🐳 **Dockerized Applications** | Containerizing apps and managing services | `Docker` `Linux` |
+| ⚙️ **CI/CD Pipeline** | Automating build, test and deployment workflows | `GitHub Actions` |
+| ☁️ **Cloud Infrastructure** | Creating cloud infrastructure as code | `AWS` `Terraform` |
+| 📊 **Monitoring Stack** | Tracking app and infrastructure metrics | `Prometheus` `Grafana` |
+| ☕ **Backend API** | Building RESTful backend applications | `Java` `Spring Boot` `MySQL` |
 
 ➡️ Explore my repositories for projects, experiments, and hands-on learning.
 
@@ -77,17 +105,34 @@
 
 ## 📈 GitHub Analytics
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+<div align="center">
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)" /> \</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+</div>
 
 ---
 
 ## 🐍 My Contribution Activity
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake" />
-\</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -108,14 +153,28 @@
 
 ## 🤝 Connect With Me
 
-\<p align="center">   \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">     \<img src="[https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)" />   \</a> \</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 
-\<p align="center">
-&#x20; \<b>⚡ Build Better. Automate Smarter. Deploy Faster. ⚡\</b>
-\</p>
+<div align="center">
 
-\<p align="center">
-&#x20; \<i>“Great systems aren't built in a day. They're improved every day.”\</i>
-\</p>
+**⚡ Build Better. Automate Smarter. Deploy Faster. ⚡**
+
+*"Great systems aren't built in a day. They're improved every day."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="Footer banner" />
+
+</div>
