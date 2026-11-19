@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi%2C%20I'm%20Jafran&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20DevOps%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi%2C%20I%27m%20Jafran&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20DevOps%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+%E2%80%A2+Automating+%E2%80%A2+Deploying;Learning+DevOps+one+project+at+a+time;Java+%7C+Spring+Boot+%7C+Docker+%7C+Cloud" alt="Typing animation" />
@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github&color=181717" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=AKMJafran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/AKMJafran?style=flat&logo=github&color=181717" alt="Followers" />
 
 </div>
 
@@ -107,16 +107,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AKMJafran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKMJafran&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=AKMJafran&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AKMJafran&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
@@ -127,9 +127,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKMJafran/AKMJafran/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKMJafran/AKMJafran/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AKMJafran/AKMJafran/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -158,7 +158,7 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AKMJafran">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
