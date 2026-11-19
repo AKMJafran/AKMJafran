@@ -1,7 +1,9 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hi%2C%20I%27m%20Jafran&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20DevOps%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" alt="Header banner" />
+<img src="https://raw.githubusercontent.com/AKMJafran/AKMJafran/main/banner.svg" alt="Header banner" width="100%" />
+
+### 🚀 Aspiring DevOps Engineer | Java & Spring Boot Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+%E2%80%A2+Automating+%E2%80%A2+Deploying;Learning+DevOps+one+project+at+a+time;Java+%7C+Spring+Boot+%7C+Docker+%7C+Cloud" alt="Typing animation" />
@@ -175,6 +177,6 @@
 
 *"Great systems aren't built in a day. They're improved every day."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42BC,50:00BFFF,100:0D1117&height=120&section=footer" alt="Footer banner" />
 
 </div>
